@@ -28,7 +28,7 @@ class VerticalExample extends Component<any, any> {
         <div style={this.props.styles.card}>
           <img
             style={this.props.styles.image}
-            src="//static.pexels.com/photos/59523/pexels-photo-59523.jpeg"
+            src="https://images.unsplash.com/photo-1682448079461-9369131fd17a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
           />
 
           <button onClick={this.handleClick}>Flip Card</button>
@@ -37,7 +37,7 @@ class VerticalExample extends Component<any, any> {
         <div style={this.props.styles.card}>
           <img
             style={this.props.styles.image}
-            src="//img.buzzfeed.com/buzzfeed-static/static/2014-04/enhanced/webdr06/4/16/enhanced-11136-1396643149-13.jpg?no-auto"
+            src="https://images.unsplash.com/photo-1682621034535-c156f42b4b6d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80"
           />
 
           <button onClick={this.handleClick}>Flip Card</button>
